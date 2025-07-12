@@ -348,7 +348,7 @@ For a high-quality purchased list, the bounce rate should be under 10%, ideally 
 **5. How often should I update my B2B data?**
 B2B data decays at a rate of 20-30% per year as people change jobs, get promoted, or leave companies. It's best to verify or refresh your list at least quarterly.
 
-## Q&A for Voice Search
+## Q&A
 
 ***Question:*** "Hey, is it okay to buy an email list for my business?"
 ***Answer:*** "Yes, buying a B2B email list is a common and legal marketing practice. The key is to use a reputable provider that supplies high-quality, compliant data and to follow anti-spam laws like CAN-SPAM in your outreach."
